@@ -1,0 +1,17 @@
+Garden Representation
+
+Garden width=14 height=14
+
+Plots:
+width=6, height=4, upperX=0, upperY=0
+width=4, height=2, upperX=10, upperY=10
+width=2, height=3, upperX=0, upperY=10
+width=4, height=2, upperX=10, upperY=0
+width=2, height=2, upperX=6, upperY=6
+width=2, height=2, upperX=9, upperY=6
+width=4, height=4, upperX=4, upperY=9
+
+Plants which are planted in the garden:
+x=0, y=0, plant type=a
+x=2, y=2, plant type=b
+x=3, y=3, plant type=b
